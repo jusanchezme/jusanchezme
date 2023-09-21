@@ -22,8 +22,4 @@ I'm a software engineer student at National University of Colombia. I develop we
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusanchezme)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📫 How to reach me
-: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin.svg
-: https://www.linkedin.com/in/juan-sebasti%C3%A1n-s%C3%A1nchez-melo/
-
 
